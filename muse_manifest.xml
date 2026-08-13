@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Devingsquire.com" resolutions="1x" timestamp="1786648884130">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3972362242" ref="index"/>
+    <file name="nomq_index.css" crc="314314986" ref="index"/>
+    <file name="404.css" crc="3830462737" ref="404"/>
+    <file name="nomq_404.css" crc="3970605909" ref="404"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:404"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index:404"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:404"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:tablet>index:index:404"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="phone>index:index:404"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index:404"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hambuger incon-u52236.png" crc="146299890" ref="phone>index"/>
+    <file name="hambuger incon-u522362.png" crc="386383291" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:404"/>
+    <file name="website reel 202200_00_05_04still001.jpg" crc="157305226" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="devin g squire webstile text.png" crc="4061750971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink suit headshot-u59368-fr.jpg" crc="366676901" ref="index"/>
+    <file name="pink suit headshot taller.jpg" crc="4197986135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sd_scene_26b_take_200_00_18_23still001-crop-u59440.jpg" crc="4283539945" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
+    <file name="sd_scene_26b_take_200_00_18_23still001-crop-u594402.jpg" crc="4146171102" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
+    <file name="sd_scene_26b_take_200_00_18_23still001-crop-u594403.jpg" crc="490622340" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="378131214" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4006980336" seo="true" mt="1786648850450" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="112913616" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3962292146" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4203047520" seo="true" mt="1786648870542" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="228388072" seo="true" mt="1786648850449" redirect="true"/>
+  <file name="404.html" crc="34581283" mt="1786648853871" redirect="true"/>
+</manifest>
